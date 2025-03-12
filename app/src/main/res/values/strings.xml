@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">着信拒否アプリ</string>
+    <string name="add_number">番号を追加</string>
+    <string name="number_hint">拒否する電話番号を入力</string>
+    <string name="save">保存</string>
+    <string name="delete">削除</string>
+    <string name="blocked_numbers">拒否番号リスト</string>
+    <string name="empty_list">拒否リストは空です</string>
+    <string name="number_added">番号が追加されました</string>
+    <string name="number_removed">番号が削除されました</string>
+    <string name="permission_required">このアプリには電話の権限が必要です</string>
+</resources>
